@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alondra's Horror Blog</title>
   <link href="/normalize.css" rel="stylesheet">
   <style>
     body {
@@ -131,8 +134,11 @@
   </article>
   
   <script>
-    $("button").on("click", function() {
-      alert("Thanks for showing this review some love!");
+    // Vanilla JS equivalent of the jQuery handler so the page works without jQuery
+    document.querySelectorAll('button').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        alert('Thanks for showing this review some love!');
+      });
     });
   </script>
 </body>
