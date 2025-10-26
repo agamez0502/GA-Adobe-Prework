@@ -2,6 +2,7 @@
 
 Adobe Task Links: 
 
+
 Project 1:
 ⦁	https://dash.generalassemb.ly/agamez0502/annas-website-1
 
@@ -11,6 +12,7 @@ Project 1:
 
 ⦁	http://dash.ga.co/agamez0502/build-your-own-personal-website
 
+
 Project 2: 
 ⦁	https://dash.generalassemb.ly/agamez0502/jeffs-blog-1
 
@@ -19,6 +21,7 @@ Project 2:
 ⦁	https://dash.generalassemb.ly/agamez0502/jeffs-blog-3
 
 ⦁	http://dash.ga.co/agamez0502/build-your-own-blog-theme
+
 
 Project 3:
 ⦁	https://dash.generalassemb.ly/agamez0502/eshas-restaurant-1
