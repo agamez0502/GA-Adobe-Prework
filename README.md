@@ -54,8 +54,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-business-website)  
 
 #### 🖼️ Screenshots
-![Example](<img width="1884" height="933" alt="Screenshot 2025-12-02 045359" src="https://github.com/user-attachments/assets/ae65a59e-adc9-4a37-b3b2-e558de659510" />)  
-![My Version](<img width="1886" height="934" alt="Screenshot 2025-12-02 045425" src="https://github.com/user-attachments/assets/7a147628-c312-434d-b6c2-baafb27fdcc0" />)
+<img width="1884" height="933" alt="Screenshot 2025-12-02 045359" src="https://github.com/user-attachments/assets/ae65a59e-adc9-4a37-b3b2-e558de659510" />
+<img width="1886" height="934" alt="Screenshot 2025-12-02 045425" src="https://github.com/user-attachments/assets/7a147628-c312-434d-b6c2-baafb27fdcc0" />
 
 ---
 
