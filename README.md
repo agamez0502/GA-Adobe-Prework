@@ -22,8 +22,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-personal-website)  
 
 #### 🖼️ Screenshots
-![Example](screenshots/project1-example.png)  
-![My Version](screenshots/project1-myversion.png)
+![Example](<img width="1907" height="933" alt="Screenshot 2025-12-02 045821" src="https://github.com/user-attachments/assets/cfd93f2e-2efe-4c49-ac5f-6a8c156187bd" />)  
+![My Version](<img width="1880" height="929" alt="Screenshot 2025-12-02 045221" src="https://github.com/user-attachments/assets/71ddb05b-87fc-4051-b6af-34c0ff8d7ae3" />)
 
 ---
 
@@ -38,8 +38,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-blog-theme)  
 
 #### 🖼️ Screenshots
-![Example](screenshots/project2-example.png)  
-![My Version](screenshots/project2-myversion.png)
+![Example](<img width="1889" height="935" alt="Screenshot 2025-12-02 045147" src="https://github.com/user-attachments/assets/bd5bd208-b61f-47a0-a77a-f9cedce9f885" />)  
+![My Version](<img width="1881" height="929" alt="Screenshot 2025-12-02 045331" src="https://github.com/user-attachments/assets/0b110828-09b6-4091-8c1d-9b66e24f8628" />)
 
 ---
 
@@ -54,8 +54,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-business-website)  
 
 #### 🖼️ Screenshots
-![Example](screenshots/project3-example.png)  
-![My Version](screenshots/project3-myversion.png)
+![Example](<img width="1884" height="933" alt="Screenshot 2025-12-02 045359" src="https://github.com/user-attachments/assets/ae65a59e-adc9-4a37-b3b2-e558de659510" />)  
+![My Version](<img width="1886" height="934" alt="Screenshot 2025-12-02 045425" src="https://github.com/user-attachments/assets/7a147628-c312-434d-b6c2-baafb27fdcc0" />)
 
 ---
 
@@ -65,7 +65,7 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](https://dash.generalassemb.ly/agamez0502/update-the-javascript-code)  
 
 #### 🖼️ Screenshots
-![Final Assignment](screenshots/project4-final.png)
+![Final Assignment](https://github.com/user-attachments/assets/7bb6cbca-ec1e-4eaf-b139-e76a1604d208)
 
 ---
 
