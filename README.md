@@ -22,8 +22,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-personal-website)  
 
 #### 🖼️ Screenshots
-![Example](<img width="1907" height="933" alt="Screenshot 2025-12-02 045821" src="https://github.com/user-attachments/assets/cfd93f2e-2efe-4c49-ac5f-6a8c156187bd" />)  
-![My Version](<img width="1880" height="929" alt="Screenshot 2025-12-02 045221" src="https://github.com/user-attachments/assets/71ddb05b-87fc-4051-b6af-34c0ff8d7ae3" />)
+<img width="1907" height="933" alt="Screenshot 2025-12-02 045821" src="https://github.com/user-attachments/assets/cfd93f2e-2efe-4c49-ac5f-6a8c156187bd" /><br><br> 
+<img width="1880" height="929" alt="Screenshot 2025-12-02 045221" src="https://github.com/user-attachments/assets/71ddb05b-87fc-4051-b6af-34c0ff8d7ae3" />
 
 ---
 
@@ -38,8 +38,8 @@ These projects helped me strengthen my foundation in **HTML, CSS, responsive des
 - [Live Demo](http://dash.ga.co/agamez0502/build-your-own-blog-theme)  
 
 #### 🖼️ Screenshots
-![Example](<img width="1889" height="935" alt="Screenshot 2025-12-02 045147" src="https://github.com/user-attachments/assets/bd5bd208-b61f-47a0-a77a-f9cedce9f885" />)  
-![My Version](<img width="1881" height="929" alt="Screenshot 2025-12-02 045331" src="https://github.com/user-attachments/assets/0b110828-09b6-4091-8c1d-9b66e24f8628" />)
+<img width="1889" height="935" alt="Screenshot 2025-12-02 045147" src="https://github.com/user-attachments/assets/bd5bd208-b61f-47a0-a77a-f9cedce9f885" /><br><br> 
+<img width="1881" height="929" alt="Screenshot 2025-12-02 045331" src="https://github.com/user-attachments/assets/0b110828-09b6-4091-8c1d-9b66e24f8628" />
 
 ---
 
